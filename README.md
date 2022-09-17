@@ -1,5 +1,5 @@
 # XenInterloper
-### You can also call me Xen, for short.
+### You can also call me Xen for short.
 I make stuff, I guess.
 
 I'll level with you right now, I'm completely new to GitHub at the time of writing this. I have no idea what I'm doing. Hopefully I'll reach a point where I can actually write something meaningful on this bio, but for now, there's this.
